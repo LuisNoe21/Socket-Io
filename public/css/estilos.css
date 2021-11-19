@@ -1,0 +1,29 @@
+#area-mensajes {
+    display: none;
+}
+#col1 {
+    width: 47%;
+}
+#col2 {
+    width: 28%;
+}
+#col3 {
+    width: 19%;
+}
+.info {
+    color: #999;
+}
+.column {
+    display: inline-block;    
+    vertical-align: top;
+}
+.caja {
+    border: 1px solid #868688;
+    border-radius: 3px;
+    height: 400px;
+    margin-top: 5px;
+    padding: 5px;
+}
+.mensajes-publicos {
+    overflow-y: auto;
+}
